@@ -9,7 +9,7 @@
 ## Disclaimer
 <p align="center">:dart: This is for educational purposes only! :closed_book:</p>
 <p align="center">:computer::no_entry_sign: Don't use this to take revenge :desktop_computer::skull:</p>
-<p align="center">:skull_and_crossbones: I will not be responsible for any misuse :trollface:</p>
+<p align="center">:skull_and_crossbones: I will not be responsible for any misuse ❌ :trollface:</p>
 
 ## About
 * Ethical Hacking
@@ -17,8 +17,9 @@
 
 ## Tested On :
 <ul>
-  <li>Linux</li>
-  <li>Termux</li>
+  <li>✅ Windows</li>
+  <li>✅ Linux</li>
+  <li>✅ Termux</li>
 </ul>
 
 ## Download :
