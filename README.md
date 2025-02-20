@@ -6,16 +6,16 @@
 
 :skull_and_crossbones::rat::shark::honey_pot::spider_web::earth_asia::artificial_satellite::rocket::flying_saucer::warning::no_entry::no_mobile_phones::radioactive::star::star2::star::sunny::joystick::game_die::thread::art::dark_sunglasses::battery::electric_plug::keyboard::computer_mouse::floppy_disk::bulb::camera::film_strip::movie_camera::moneybag::receipt::dollar::credit_card::email::open_file_folder::lock::unlock::key::old_key::hammer_and_wrench::pick::shield::gear::magnet::link::chains::toolbox::drop_of_blood::smoking::coffin::sagittarius::repeat::arrow_forward::arrow_up_small::arrow_down_small::arrow_backward::stop_button::high_brightness::infinity::interrobang::bangbang::question::heavy_dollar_sign::recycle::red_circle::red_square::large_orange_diamond::small_red_triangle::triangular_flag_on_post::black_flag::white_flag::checkered_flag::pirate_flag::philippines::atom::electron::godmode::shipit:
 
-## Disclaimer
+## Disclaimer :closed_book:
 <p align="center">:dart: This is for educational purposes only! :closed_book:</p>
 <p align="center">:computer::no_entry_sign: Don't use this to take revenge :desktop_computer::skull:</p>
 <p align="center">:skull_and_crossbones: I will not be responsible for any misuse ❌ :trollface:</p>
 
-## About
+## About :dart:
 * Ethical Hacking
 * Networking
 
-## Tested On :
+## Tested On :computer: :desktop_computer: :iphone:
 <ul>
   <li>✅ Windows</li>
   <li>✅ Linux</li>
