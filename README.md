@@ -27,7 +27,7 @@
 + :spider_web: Web Hacking
 + :syringe: SQL Injection
 + :shell: Shell Scripting
-+ :satellite antenna: Wifi Hacking
++ :satellite_antenna: Wifi Hacking
 + :shark: Wireshark
 
 ## Tested on :test_tube:
